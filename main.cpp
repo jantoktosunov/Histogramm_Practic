@@ -11,4 +11,5 @@ int main() {
     imshow( "Gray", gray );
     waitKey(0);
     return 0;
+    //commit
 }
